@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    
+     <string-array name="emenu_items" tools:ignore="MissingTranslation">
+        <item >Home</item>
+        <item >My Cart</item>
+       
+        
+    </string-array>
+    
+     
+         <array name="enav_drawer_icons">
+                <item></item>
+        
+    </array>
+</resources>
